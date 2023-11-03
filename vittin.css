@@ -10,5 +10,12 @@ h4 {
 }
 
 body {
-    background-color: rgb(59, 201, 24); 
+    background-color: aquamarine; 
+    text-align: center;
+}
+tabela.png {
+    width: 40%;
+}
+.imagemcentralizada {
+ text-align: center;
 }
